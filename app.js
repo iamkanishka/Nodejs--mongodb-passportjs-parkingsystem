@@ -11,7 +11,7 @@ const app = express();
 require("./config/passport")(passport);
 // Database for parking Slots 
 
-mongoose.connect("mongodb://localhost:27017/Parking");
+mongoose.connect("mongodb+srv://kanishkanaik:kanishkanaik@cluster0.xjsla.mongodb.net/Parking?retryWrites=true&w=majority");
 
 const con = mongoose.connection
 
