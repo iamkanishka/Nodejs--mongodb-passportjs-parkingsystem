@@ -1,3 +1,3 @@
 module.exports = {
-  mongoURI: 'mongodb://localhost:27017/Park'
+  mongoURI: 'mongodb+srv://kanishkanaik:kanishkanaik@cluster0.xjsla.mongodb.net/Parking?retryWrites=true&w=majority'
 };
