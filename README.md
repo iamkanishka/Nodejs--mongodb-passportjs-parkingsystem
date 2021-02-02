@@ -15,8 +15,13 @@ $ nodemon app.js
 
 # Visit http://localhost:MYPORT 
 ```
-MyPort is a const in app.js
 
 ### MongoDB
 
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
+
+
+
+
+Heres the live demo of the app
+https://node-parkingsystem.herokuapp.com/
